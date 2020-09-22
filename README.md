@@ -1,6 +1,12 @@
 # Data-Visualisation-with-Python
 
 %matplotlib inline  ##This is a Magic function
+
+
+
+
+
+
 # A magic function starts with % Matplotlib, and to enforce plots to be rendered within the browser, you pass in inline as the backend. Matplotlib has a number of different backends available. One limitation of this backend is that you cannot modify a figure once it's rendered. So after rendering the above figure, there is no way for us to add, for example, a figure title or label its axes. You will need to generate a new plot and add a title and the axes labels before calling the show function. 
 
 
